@@ -1,0 +1,69 @@
+**Run Coach Summary**
+
+Based on the provided CSV and PDF resources, I've analyzed the data to prov[4D[K
+provide a summary of your running performance.
+
+**Total Sessions:** 12
+**Total Lap Records:** 120
+
+The dataset covers a period from April 30th, 2026, to June 21st, 2026. Duri[4D[K
+During this time, you've completed 10 sessions of Regular Training and 2 se[2D[K
+sessions of Event/Race training.
+
+**Category Distribution:**
+
+* Regular Training: 10 sessions
+* Event/Race: 2 sessions
+
+**Statistical Patterns:**
+
+* Regular Training:
+	+ Average pace: 9.67 ± 2.90 minutes per kilometer (min/km)
+	+ Average heart rate (HR): 137 ± 17 beats per minute (bpm)
+	+ Cadence: 139 steps per minute (spm)
+	+ Stride length: 0.79 meters (m)
+* Event/Race:
+	+ Average pace: 7.29 ± 0.95 min/km
+	+ Average HR: 168 ± 8 bpm
+	+ Cadence: 156 spm
+	+ Stride length: 0.89 m
+
+**Abnormality Detection:**
+
+The report highlights 6 outliers, which are values that deviate significant[11D[K
+significantly from the average. These outliers are:
+
+* 2026-05-17 | Regular Training | Lap 2 | Pace 9.83 | z=2.19
+* 2026-06-14 | Regular Training | Lap 3 | Pace 11.80 | z=2.67
+* 2026-06-12 | Regular Training | Lap 6 | Pace 18.88 | z=2.17
+* 2026-06-12 | Regular Training | Lap 7 | Pace 15.38 | z=2.11
+* 2026-05-17 | Regular Training | Lap 8 | Pace 11.02 | z=2.14
+* 2026-04-30 | Regular Training | Lap 10 | Pace 23.02 | z=2.56
+
+These outliers may indicate fatigue, overexertion, or a need to adjust your[4D[K
+your training pace.
+
+**Trend Analysis:**
+
+The trend analysis shows that your Regular Training sessions have an improv[6D[K
+improving slope of -0.026, with an R² value of 0.01 and p-value of 0.777. T[1D[K
+This indicates a slight improvement in your performance over time, but it's[4D[K
+it's not statistically significant.
+
+**Actionable Improvements:**
+
+Based on the data, I recommend the following improvements:
+
+1. **Focus on pace management:** Given the outliers detected, focus on main[4D[K
+maintaining a consistent pace during your training sessions.
+2. **Incorporate strength training:** Incorporate strength exercises to imp[3D[K
+improve your running efficiency and reduce the risk of injury.
+3. **Gradually increase intensity:** Gradually increase the intensity of yo[2D[K
+your workouts to avoid overexertion.
+4. **Pay attention to fatigue:** Pay attention to fatigue and take rest day[3D[K
+days as needed to avoid burnout.
+5. **Monitor cadence and stride length:** Monitor your cadence and stride l[1D[K
+length to ensure they're within a healthy range for running.
+
+By implementing these improvements, you'll be better equipped to achieve yo[2D[K
+your running goals while minimizing the risk of injury or burnout.
